@@ -5,4 +5,4 @@
 <p><b>Created by:</b> 0x53 - Twitter: @samueltuxx</p>
 
 <h2>Contact:</h2>
-<b><li>Twitter:</b> @samueltuxx</l1>
+<center><b><li>Twitter:</b> @samueltuxx</l1>
